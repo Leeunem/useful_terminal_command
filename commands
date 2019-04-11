@@ -1,0 +1,2 @@
+`#Shut Down Computer after "+X" minutes`
+sudo shutdown -h +X
